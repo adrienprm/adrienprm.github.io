@@ -127,6 +127,7 @@ div#photo {
     border-radius: 8px;
     padding: 10px 20px;
     border: 1px solid #666;
+    z-index: 10;
 }
 
 
